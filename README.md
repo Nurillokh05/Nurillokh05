@@ -11,8 +11,8 @@
 
 
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%233776AB.svg?style=for-the-badge&logo=sql&logoColor=white)
+![R](https://img.shields.io/badge/R-%23F05032.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-%23D83B01.svg?style=for-the-badge&logo=microsoft%20office&logoColor=white)
 
